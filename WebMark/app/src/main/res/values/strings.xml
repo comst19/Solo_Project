@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WebMark</string>
+    <string name="sign">comst19</string>
+
+    <!--item-->
+    <string name="urlNickname">저장한 url 설명</string>
+    <string name="saveUrl">www</string>
+
+
+    <!--add dialog    -->
+    <string name="addTitle">WebMark 추가</string>
+    <string name="urlForm">https://...</string>
+    <string name="nicknameHint">url을 저장할 이름을 입력하세요</string>
+    <string name="cancle">취소</string>
+    <string name="save">저장</string>
+
+    <!--menu dialog    -->
+    <string name="menuTitle">무엇을 하시겠습니까?</string>
+    <string name="edit">수정하기</string>
+    <string name="delete">삭제하기</string>
+    <string name="share">공유하기</string>
+
+    <!--edit dialog    -->
+    <string name="editTitle">WebMark 수정</string>
+</resources>
